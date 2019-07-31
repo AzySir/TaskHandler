@@ -17,13 +17,18 @@ namespace TaskHandler
             u.AddTask("Cook Breakfast");
 
             //Create Task
-            u.AddTask("Cook Breakfast", CurrentTimeZoneNow);
+            u.AddTask("Brush Teeth", CurrentTimeZoneNow);
 
+            Console.WriteLine("Number of Tasks in List: " + u.GetTaskList().Count);
             //Start Task
-            u.StartTask(CurrentTimeZoneNow);
+            //u.StartTask(CurrentTimeZoneNow);
 
             //Get TaskStartTime()
-            Console.WriteLine("Current Start Time: " + u.GetStartTime().ToString("hh:mm tt"));
+            Console.WriteLine("Current Start Time: " + u.StartTime.ToString("hh:mm tt"));
+
+            //u.PrintAllTasks();
+            //u.GetTask("Brush Teeth");
+            u.GetTask(0);
 
             //End Task
 

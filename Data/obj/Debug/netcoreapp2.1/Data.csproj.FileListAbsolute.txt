@@ -1,0 +1,14 @@
+/Users/639603/projects/TaskHandler/Data/bin/Debug/netcoreapp2.1/Data.deps.json
+/Users/639603/projects/TaskHandler/Data/bin/Debug/netcoreapp2.1/Data.runtimeconfig.json
+/Users/639603/projects/TaskHandler/Data/bin/Debug/netcoreapp2.1/Data.runtimeconfig.dev.json
+/Users/639603/projects/TaskHandler/Data/bin/Debug/netcoreapp2.1/Data.dll
+/Users/639603/projects/TaskHandler/Data/bin/Debug/netcoreapp2.1/Data.pdb
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.csprojAssemblyReference.cache
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.csproj.CoreCompileInputs.cache
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.RazorAssemblyInfo.cache
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.RazorAssemblyInfo.cs
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.AssemblyInfoInputs.cache
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.AssemblyInfo.cs
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.RazorTargetAssemblyInfo.cache
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.dll
+/Users/639603/projects/TaskHandler/Data/obj/Debug/netcoreapp2.1/Data.pdb
