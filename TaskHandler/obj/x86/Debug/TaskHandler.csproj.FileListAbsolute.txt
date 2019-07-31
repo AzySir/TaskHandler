@@ -1,6 +1,0 @@
-/Users/639603/projects/TaskHandler/TaskHandler/obj/x86/Debug/TaskHandler.csprojAssemblyReference.cache
-/Users/639603/projects/TaskHandler/TaskHandler/obj/x86/Debug/TaskHandler.csproj.CoreCompileInputs.cache
-/Users/639603/projects/TaskHandler/TaskHandler/bin/Debug/TaskHandler.exe
-/Users/639603/projects/TaskHandler/TaskHandler/bin/Debug/TaskHandler.pdb
-/Users/639603/projects/TaskHandler/TaskHandler/obj/x86/Debug/TaskHandler.exe
-/Users/639603/projects/TaskHandler/TaskHandler/obj/x86/Debug/TaskHandler.pdb
