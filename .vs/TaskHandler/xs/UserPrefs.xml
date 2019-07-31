@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0ADEF452-F634-41D4-BB38-8083AA771836}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskHandler/Program.cs">
+    <Files>
+      <File FileName="TaskHandler/Program.cs" Line="5" Column="20" />
+      <File FileName="TaskHandler/User.cs" />
+      <File FileName="TaskHandler/Task.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskHandler" expanded="True">
+            <Node name="TaskHandler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaskHandler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
